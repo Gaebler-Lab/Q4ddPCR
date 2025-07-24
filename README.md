@@ -6,3 +6,5 @@ This is a repository for a) an example on how to use the R-package for Q4ddPCR a
 2) Download Run File.R and follow the instructions on how to fill the file.
 3) Install R-package for Q4ddPCR analysis (available in https://github.com/buchauer-lab/Q4ddPCR_Analysis/tree/v0.1.0).
 4) Run the code in the Run File.R
+
+If you are using one of the codes please cite [PAPER ONCE IT IS PUBLISHED]
