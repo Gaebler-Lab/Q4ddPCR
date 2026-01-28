@@ -1,7 +1,9 @@
 library(MultiplexPCRAnalyser)
 
 # Load parameters
-source("/Users/rachelscheck/Documents/Jones Lab/Q4ddPCR/Manuscript/Code/Vignette Release/set_parameters.R")
+source("/path/set_parameters.R") # set the path to the set_parameters.R file
+
+
 information <- read_files(
   xlsx_file,
   csv_file,
