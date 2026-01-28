@@ -1,3 +1,5 @@
+# This file belongs to previous versions (Q4ddPCR and Q4ddPCR_v1.1.0) 
+
 library(MultiplexPCRAnalyser)
 setwd("/directory/") #set the directory
 getwd()
